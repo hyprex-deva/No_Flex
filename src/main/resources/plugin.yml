@@ -1,0 +1,7 @@
+name: No_Flex
+version: '${project.version}'
+main: me.plugin.no_flex.No_Flex
+api-version: 1.19
+authors: [ HyprexDeva ]
+description: Its a No Flex Plugin
+website: https://github.com/hyprex-deva
